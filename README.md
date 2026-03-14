@@ -6,3 +6,11 @@ Este es un proyecton sencilla creada en ubuntu con vs code, que muestra un hola 
 ### Pre requisitos 
 1. Debemos instalar apache2, utilizando: Sudo apt install apache2
 2. Debemos istalar php, utilizando: Sudo apt install php
+
+#### Pasos para ejecutar el proyecto
+En tu navegador puedes colocar la dirección del archivos escribiendo: localhost/proyecto_php/index.php
+
+##### Datos del autor
+Breymy Cuadra
+breymy.cuadra@galileo.edu
+Carnet:26006987
